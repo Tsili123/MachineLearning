@@ -1,1 +1,1 @@
-# ML-uni
+# Machine Learning university assignments
